@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Shamendra#1"
+    },
+    {
+      "id": 2,
+      "name": "Shamendra#2"
+    },
+    {
+      "id": 3,
+      "name": "Shamendra#3"
+    }
+  ],
+  "profile": {
+    "name": "main"
+  }
+}
